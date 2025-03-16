@@ -10,7 +10,6 @@ The projects cover:
 ---
 
 ## 1. EV Sales Trends & Forecast
-
 ### Overview
 Goal: Analyze global and U.S. electric vehicle (EV) sales data, then forecast future sales based on historical trends.  
 **Key Metrics**: Annual sales, regional comparisons, EV powertrain types (BEV, PHEV, FCEV), and projected growth.  
@@ -28,7 +27,6 @@ Goal: Analyze global and U.S. electric vehicle (EV) sales data, then forecast fu
 ---
 
 ## 2. Seattle Airbnb Analysis
-
 ### Overview
 Goal: Explore Airbnb listings in the Seattle area, focusing on pricing, availability, room types, and the impact of location on rental performance.  
 **Key Metrics**: Daily/weekly rental prices, occupancy rates, property types (Entire Home, Private Room, etc.), host ratings.  
@@ -46,7 +44,6 @@ Goal: Explore Airbnb listings in the Seattle area, focusing on pricing, availabi
 ---
 
 ## 3. Executive Summary – Finance
-
 ### Overview
 Goal: Provide a top-level financial snapshot of a hypothetical company, including revenue, profit, and performance across different regions and product lines.  
 **Key Metrics**: Monthly/quarterly/annual revenue, profit margin, regional or segment contributions, trends over time.  
