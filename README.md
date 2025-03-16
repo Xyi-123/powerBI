@@ -1,4 +1,4 @@
-# powerBI
+# powerBI-projects
 
 This repository contains three Power BI reports, each demonstrating different aspects of data analysis, visualization, and insight generation.  
 The projects cover:
