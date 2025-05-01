@@ -31,7 +31,7 @@ Weather CSV + Delay CSV
 - Cleaned and joined by date  
 - Engineered new features (e.g., temperature range, snow day indicator)
 
-#### Delay Forecasting Flow (Python)
+## Delay Forecasting Flow (Python)
 
 ```
 Data Preparation 
@@ -41,7 +41,7 @@ Data Preparation
 
 ---
 
-### Dashboard & Insights
+## Dashboard & Insights
 
 The interactive dashboard (built in Power BI) visualizes:
 
@@ -56,7 +56,7 @@ This tool helps:
 
 ---
 
-#### Files
+## Files
 
 | File | Description |
 |------|-------------|
@@ -66,7 +66,7 @@ This tool helps:
 
 ---
 
-#### Future Improvements
+## Future Improvements
 
 - Use real-time MTA + weather API
 - Incorporate additional ML models (e.g., XGBoost, LSTM)
