@@ -20,24 +20,21 @@ As a daily subway rider, I often experienced delays worsened by rain or snow, wi
 
 ### Data Pipeline Workflow
 
-```
-Weather CSV + Delay CSV 
-   → Clean & Merge 
-   → Feature Engineering 
-   → Final Modeling Dataset
-```
+Weather CSV + Delay CSV  
+→ Clean & Merge  
+→ Feature Engineering  
+→ Final Modeling Dataset
 
 - Combined NYC MTA delay logs with NOAA weather data  
 - Cleaned and joined by date  
 - Engineered new features (e.g., temperature range, snow day indicator)
 
-## Delay Forecasting Flow (Python)
+### Delay Forecasting Flow (Python)
 
-```
-Data Preparation 
-   → RandomForestRegressor Setup 
-   → Model Training & Prediction 
-   → Visualization & Post-Processing
+Data Preparation  
+→ RandomForestRegressor Setup  
+→ Model Training & Prediction  
+→ Visualization & Post-Processing
 
 ---
 
