@@ -41,9 +41,7 @@ Data Preparation
 
 ---
 
-## Dashboard & Insights
-
-![Subway Dashboard](SubwayFlow_Dashboard.png)
+### Dashboard & Insights
 
 The interactive dashboard (built in Power BI) visualizes:
 
@@ -58,7 +56,7 @@ This tool helps:
 
 ---
 
-## Files
+### Files
 
 | File | Description |
 |------|-------------|
@@ -68,7 +66,7 @@ This tool helps:
 
 ---
 
-## Future Improvements
+### Future Improvements
 
 - Use real-time MTA + weather API
 - Incorporate additional ML models (e.g., XGBoost, LSTM)
